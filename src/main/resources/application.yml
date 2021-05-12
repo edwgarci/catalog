@@ -1,1 +1,8 @@
+springdoc:
+  api-docs:
+    groups:
+      enabled: false
+  swagger-ui:
+    path: /
+    display-request-duration: true
 
